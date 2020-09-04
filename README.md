@@ -1,4 +1,4 @@
-## :question: Quanto custa um bitcoin hoje?
+## Quanto custa um bitcoin hoje :question:
 
 Site simples que informa o valor de 1 Bitcoin em real
 
